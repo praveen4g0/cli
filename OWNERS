@@ -1,10 +1,7 @@
 # The OWNERS file is used by prow to automatically merge approved PRs.
 
 approvers:
-- vdemeester
-- sthaha
-- hrishin
-- chmouel
-- danielhelfand
-- piyush-garg
-- pradeepitm12
+- tektoncd-approvers
+
+reviewers:
+- tektoncd-reviewers
